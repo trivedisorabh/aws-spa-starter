@@ -4,7 +4,7 @@ provider "aws" {
 }
 
 locals {
-  appname = "template-app"
+  appname = "question-report"
 }
 
 module "FE" {
